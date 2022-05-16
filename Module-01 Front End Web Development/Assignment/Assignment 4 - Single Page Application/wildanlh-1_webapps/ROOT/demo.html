@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>A simple AJAX website with jQuery</title>
+
+    <link rel="stylesheet" type="text/css" href="demo.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+
+<body>
+    <div id="container">
+        <header>
+            <h1>A simple AJAX driven jQuery website</h1>
+            <h2 class="secondary">Because simpler is better</h2>
+        </header>
+
+        <nav>
+            <ul>
+                <li><a href="#page_1">Mushrooms</a></li>
+                <li><a href="#page_2">Potatos</a></li>
+                <li><a href="#page_3">Carrots</a></li>
+                <li><a href="#page_4">Tomatoes</a></li>
+                <li><a href="#products">All Products</a></li>
+                <li class="loading">
+                    <img id="loading" src="img/ajax_load.gif" alt="loading" />
+                </li>
+            </ul>
+
+            <select id="select">
+                <option value="SGD">Singapore Dollar</option>
+                <option value="MYR">Malaysian Ringgit</option>
+                <option value="INR">Indian Rupees</option>
+                <option value="PHP">Philippine Peso</option>
+                <option value="IDR">Indonesian Rupiah</option>
+            </select>
+        </nav>
+
+        <div id="pageContent">
+            <h1>Single Page Application</h1>
+            <p>Wildan Luqmanul Hakim</p>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="script.js"></script>
+</body>
+
+</html>
