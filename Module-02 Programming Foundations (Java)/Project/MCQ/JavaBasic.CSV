@@ -1,0 +1,10 @@
+Who invented Java Programming?,Guido van Rossum,James Gosling,Dennis Ritchie,Bjarne Stroustrup,b,James Gosling
+Which statement is true about Java?,Java is a sequence-dependent programming language,Java is a code dependent programming language,Java is a platform-dependent programming language,Java is a platform-independent programming language,d,Java is a platform-independent programming language
+"Which component is used to compile, debug and execute the java programs",JRE,JIT,JDK,JVM,c,JDK
+Which of the following is a type of polymorphism in Java Programming?,Multiple polymorphism,Compile time polymorphism,Multilevel polymorphism,Execution time polymorphism,b,Compile time polymorphism
+What is Truncation in Java?, Floating-point value assigned to a Floating type,Floating-point value assigned to an integer type,Integer value assigned to floating type,Integer value assigned to floating type,b,Floating-point value assigned to an integer type
+Which one of the following is not an access modifie?,Protected,Private,Public,Void,d,Void
+What is the numerical range of a char data type in Java?,0 to 256,-128 to 127,0 to 65535,0 to 32767,c,0 to 65535
+Which of these keywords are used for the block to be examined for exceptions?,try,catch,throw,check,a,try
+Which of the below is not a Java Profiler?,JProfiler,Eclipse Profiler,JVM,JConsole,c,JVM
+Which of the following is a superclass of every class in Java?,ArrayList,Abstract class,Object class,String,c,Object class
