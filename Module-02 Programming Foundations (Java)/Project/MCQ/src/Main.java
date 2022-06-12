@@ -4,11 +4,6 @@ public class Main {
     static String name;
 
     public static void main(String[] args) {
-        String java, control, input;
-
-        java = "1";
-        control = "2";
-
         Scanner in = new Scanner(System.in);
         System.out.println("Enter Your Name :");
         name = in.nextLine();
@@ -16,12 +11,12 @@ public class Main {
         System.out.println("Choose your Multiple Choice Question Set. The Options are :");
         System.out.println("1. Java Basics");
         System.out.println("2. Control Structures");
-        input = in.nextLine();
+        int input = in.nextInt();
 
-        if (input.equals(java)) {
+        if (input == 1) {
             JavaBasics.run();
         }
-        if (input.equals(control)) {
+        if (input == 2) {
             ControlStructures.run();
         }
         in.close();
