@@ -18,7 +18,11 @@ public class JavaBasics extends Main {
         try (BufferedReader br = new BufferedReader(new FileReader(csvFile))) {
             while ((line = br.readLine()) != null) {
                 String[] question = line.split(splitBy);
-                System.out.println("Question " + no + ":\n" + question[0] + "\nA. " + question[1] + "\nB. " + question[2] + "\nC. " + question[3] + "\nD. " + question[4]);
+                System.out.println("Question " + no + ":\n" + question[0]
+                        + "\nA. " + question[1]
+                        + "\nB. " + question[2]
+                        + "\nC. " + question[3]
+                        + "\nD. " + question[4]);
                 String answer = in.nextLine();
                 no++;
                 if (question[5].equals(answer)) {
