@@ -3,9 +3,9 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class JavaBasics extends Main {
+public class ControlStructures extends Main {
     public static void run(){
-        String csvFile = "JavaBasic.CSV";
+        String csvFile = "ControlStructures.CSV";
         String line = "";
         String splitBy = ",";
         int no = 1;
@@ -18,10 +18,10 @@ public class JavaBasics extends Main {
         try (BufferedReader br = new BufferedReader(new FileReader(csvFile))) {
             while ((line = br.readLine()) != null) {
                 String[] question = line.split(splitBy);
-                System.out.println("Question " + no + ":\n" + question[0]
-                        + "\nA. " + question[1]
-                        + "\nB. " + question[2]
-                        + "\nC. " + question[3]
+                System.out.println("Question " + no + ":\n" + question[0] 
+                        + "\nA. " + question[1] 
+                        + "\nB. " + question[2] 
+                        + "\nC. " + question[3] 
                         + "\nD. " + question[4]);
                 String answer = in.nextLine();
                 no++;
