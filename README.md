@@ -1,6 +1,11 @@
 # LithanSingapore
 All assignments and projects that I made during my internship training are uploaded here
 
+## Module List
+- [Module-01 Front End Web Development](#module-01-front-end-web-development)
+- [Module-02 Programming Foundations (Java)](#module-02-programming-foundations-java)
+- [Module-03 UI Frameworks](#module-03-ui-frameworks)
+
 ## Module-01 Front End Web Development
 ### Assignment
 - [Assignment 1 - IA, Wireframe and Storyboard](https://github.com/wildanlh/LithanSingapore/tree/master/Module-01%20Front%20End%20Web%20Development/Assignment/Assignment%201%20-%20IA%2C%20Wireframe%20and%20Storyboard)
