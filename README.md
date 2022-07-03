@@ -2,16 +2,9 @@
 All assignments and projects that I made during my internship training are uploaded here
 
 ## Module List
-- [Lithan EduClaas](#lithan-educlaas)
-  - [Module List](#module-list)
   - [Module-01 Front End Web Development](#module-01-front-end-web-development)
-    - [Assignment](#assignment)
-    - [Project](#project)
   - [Module-02 Programming Foundations (Java)](#module-02-programming-foundations-java)
-    - [Assignment](#assignment-1)
-    - [Project](#project-1)
   - [Module-03 UI Frameworks](#module-03-ui-frameworks)
-    - [Assignment](#assignment-2)
 
 ## Module-01 Front End Web Development
 ### Assignment
