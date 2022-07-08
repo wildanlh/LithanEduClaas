@@ -1,0 +1,11 @@
+.col img {
+    width: 100%;
+}
+
+.card-body .text-center img {
+    height: 100px;
+}
+
+section {
+    margin-top: 80px;
+}
