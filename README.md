@@ -29,3 +29,5 @@ All assignments and projects that I made during my internship training are uploa
 - [Assignment 2 - Axure Prototyping](https://github.com/wildanlh/LithanSingapore/tree/master/Module-03%20UI%20Frameworks/Assignment/Assignment%202%20-%20Axure%20Prototyping)
 - [Assignment 3 - Bootstrap](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-03%20UI%20Frameworks/Assignment/Assignment%203%20-%20Bootstrap)
 - [Assignment 4 - Angular](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-03%20UI%20Frameworks/Assignment/Assignment%204%20-%20Angular)
+### Project
+- [ABC Jobs](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-03%20UI%20Frameworks/Project/abc-jobs)
