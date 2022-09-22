@@ -1,0 +1,41 @@
+<div class="container col-xxl-8 px-4 py-3">
+  <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+    <div class="col-10 col-sm-8 col-lg-6">
+      <img src="../../assets/img/banner.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700"
+        height="500" loading="lazy">
+    </div>
+    <div class="col-lg-6">
+      <h1 class="display-5 fw-bold lh-1 mb-3">Welcome to XYZ Cars</h1>
+      <p class="lead">We sell various top car brands, not only that we also provide a car service place, for purchases
+        at XYZ Cars
+        you will get various bonuses</p>
+      <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        <button type="button" class="btn btn-dark btn-lg px-4 me-md-2" routerLink="/car-on-sale">Cars On Sale</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">_
+  <div class="row cards mt-5">
+    <h2 class="text-center p-3">Car Brand List</h2>
+    <div class="col-md-4 d-flex justify-content-center" *ngFor="let carbrand of carbrand">
+      <div class="card border-0">
+        <div class="card-body">
+          <div class="text-center">
+            <img src="{{carbrand.img}}" class="rounded" alt="...">
+          </div>
+          <h5 class="card-title text-center p-3">{{carbrand.brand}}</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+    <div class="col-md-4 d-flex align-items-center">
+      <span class="text-muted">© 2022 XYZ Cars, Inc</span>
+    </div>
+  </footer>
+</div>

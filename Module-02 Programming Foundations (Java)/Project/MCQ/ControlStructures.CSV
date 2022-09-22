@@ -1,0 +1,10 @@
+The cascading of structures allows us to make more complex selections?,If-else-else if statement,If statement,Else-if,Else statement,a,If-else-else if statement
+Is an integer or character expression?,Switch_expression,Case_selector1/case_selector2 and so on,Switch_statement,Switch,a,Switch_expression
+Allow executing specific sections of code a number of times?,Decision control structures(if/else/switch),Branching statements(break/continue/return),Repetition control structures(while/do-while/for),No one above,c,Repetition control structures(while/do-while/for)
+Allows redirection of program flow?,Decision control structures(if/else/switch),Branching statements(break/continue/return),Repetition control structures(while/do-while/for),No one above,b,Branching statements(break/continue/return)
+Allows selection of specific sections of code to be executed?,Decision control structures(if/else/switch),Branching statements(break/continue/return),Repetition control structures(while/do-while/for),No one above,a,Decision control structures(if/else/switch)
+Allows us to change the ordering of how the statements in our programs are executed?,Decision control structures,Repetition control structures,Control structures,Branching statements,c,Control structures
+Used when we want to execute a certain statement if a condition is true and a different statement if the condition is false?,If statement,Nested if-else statement,If-else statement,Else if statement,c,If-else statement
+This means that you can have other if-else inside another if-else block?,If-else statement,Else-if statement,If-statement,Nested if-else blocks,d,Nested if-else blocks
+Allows branching on multiple outcomes?,Switch,While,Do-while,For Loop,a,Switch
+Allows execution of the same code a number of times?,Switch,While Loop,Do-while Loop,For Loop,d,For Loop

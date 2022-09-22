@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Restricted Content"
+AuthUserFile "C:\Program Files\Apache Software Foundation\Tomcat 9.0\wildanlh-2_webapps\docs\.htpasswd"
+Require valid-user
