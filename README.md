@@ -16,7 +16,7 @@ All assignments and projects that I made during my internship training are uploa
 - [Assignment 3 - jQuery and jQuery UI](https://github.com/wildanlh/LithanSingapore/tree/master/Module-01%20Front%20End%20Web%20Development/Assignment/Assignment%203%20-%20jQuery%20and%20jQuery%20UI)
 - [Assignment 4 - Single Page Applicationt](https://github.com/wildanlh/LithanSingapore/tree/master/Module-01%20Front%20End%20Web%20Development/Assignment/Assignment%204%20-%20Single%20Page%20Application)
 ### Project
-- [ABC Learning Center](https://github.com/wildanlh/LithanSingapore/tree/master/Module-01%20Front%20End%20Web%20Development/Project)
+- [ABC Learning Center](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-01%20Front%20End%20Web%20Development/Project)
 
 ## Module-02 Programming Foundations (Java)
 ### Assignment
