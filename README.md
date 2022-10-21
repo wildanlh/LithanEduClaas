@@ -59,3 +59,6 @@ All assignments and projects that I made during my internship training are uploa
 ### Project
 - [ABC Jobs with Spring](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-06%20Web%20Development%20Foundations/Project)
 
+## Module-07 Capstone Project Web Development
+### Project
+- [ABC Jobs with Spring Update](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-07%20Capstone%20Project%20Web%20Development/Project)
