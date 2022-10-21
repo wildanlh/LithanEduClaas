@@ -8,6 +8,7 @@ All assignments and projects that I made during my internship training are uploa
   - [Module-04 Database Design and Development](#module-04-database-design-and-development)
   - [Module-05 Application Implementation](#module-05-application-implementation)
   - [Module-06 Web Development Foundations](#module-06-web-development-foundations)
+  - [Module-07 Capstone Project Web Development](#module-06-capstone-project-web-development)
 
 ## Module-01 Front End Web Development
 ### Assignment
