@@ -8,7 +8,8 @@ All assignments and projects that I made during my internship training are uploa
   - [Module-04 Database Design and Development](#module-04-database-design-and-development)
   - [Module-05 Application Implementation](#module-05-application-implementation)
   - [Module-06 Web Development Foundations](#module-06-web-development-foundations)
-  - [Module-07 Capstone Project Web Development](#module-06-capstone-project-web-development)
+  - [Module-07 Capstone Project Web Development](#module-07-capstone-project-web-development)
+  - [Module-08 Web Development Using Platforms](#module-08-web-development-using-platforms)
 
 ## Module-01 Front End Web Development
 ### Assignment
@@ -63,3 +64,8 @@ All assignments and projects that I made during my internship training are uploa
 ## Module-07 Capstone Project Web Development
 ### Project
 - [ABC Jobs with Spring Update](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-07%20Capstone%20Project%20Web%20Development/Project)
+
+## Module-08 Web Development Using Platforms
+### Assignment
+- [Assignment 1](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-08%20Web%20Development%20Using%20Platforms/Assignment/Assignment%201)
+- [Assignment 2](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-08%20Web%20Development%20Using%20Platforms/Assignment/Assignment%202)
