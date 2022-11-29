@@ -72,3 +72,5 @@ All assignments and projects that I made during my internship training are uploa
 - [Assignment 3](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-08%20Web%20Development%20Using%20Platforms/Assignment/Assignment%203)
 - [Assignment 4](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-08%20Web%20Development%20Using%20Platforms/Assignment/Assignment%204)
 - [Assignment 5](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-08%20Web%20Development%20Using%20Platforms/Assignment/Assignment%205)
+### Project
+- [AAA Website Hosting](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-08%20Web%20Development%20Using%20Platforms/Project)
