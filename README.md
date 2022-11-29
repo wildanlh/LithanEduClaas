@@ -10,7 +10,7 @@ All assignments and projects that I made during my internship training are uploa
   - [Module-06 Web Development Foundations](#module-06-web-development-foundations)
   - [Module-07 Capstone Project Web Development](#module-07-capstone-project-web-development)
   - [Module-08 Web Development Using Platforms](#module-08-web-development-using-platforms)
-  - [Module-09 Application Development & Process](#module-09-application-development-process)
+  - [Module-09 Application Development and Process](#module-09-application-development-and-process)
 
 ## Module-01 Front End Web Development
 ### Assignment
@@ -76,7 +76,7 @@ All assignments and projects that I made during my internship training are uploa
 ### Project
 - [AAA Website Hosting](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-08%20Web%20Development%20Using%20Platforms/Project)
 
-## Module-09 Application Development & Process
+## Module-09 Application Development and Process
 ### Assignment
 - [Assignment 1 - Inversion of Control](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-09%20Application%20Development%20%26%20Process/Assignment/Assignment%201%20-%20Inversion%20of%20Control)
 - [Assignment 2 - Spring MVC](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-09%20Application%20Development%20%26%20Process/Assignment/Assignment%202%20-%20Spring%20MVC)
