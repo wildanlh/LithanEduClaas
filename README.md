@@ -78,8 +78,8 @@ All assignments and projects that I made during my internship training are uploa
 
 ## Module-09 Application Development and Process
 ### Assignment
-- [Assignment 1 - Inversion of Control](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-09%20Application%20Development%20%26%20Process/Assignment/Assignment%201%20-%20Inversion%20of%20Control)
-- [Assignment 2 - Spring MVC](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-09%20Application%20Development%20%26%20Process/Assignment/Assignment%202%20-%20Spring%20MVC)
-- [Assignment 3 - Spring Boot](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-09%20Application%20Development%20%26%20Process/Assignment/Assignment%203%20-%20Spring%20Boot)
-- [Assignment 4 - Spring Boot + JPA](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-09%20Application%20Development%20%26%20Process/Assignment/Assignment%204%20-%20Spring%20Boot%20%2B%20JPA)
-- Assignment 5 - Spring Security, Error Handling, and Logging
+- [Assignment 1 - Inversion of Control](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-09%20Application%20Development%20and%20Process/Assignment/Assignment%201%20-%20Inversion%20of%20Control)
+- [Assignment 2 - Spring MVC](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-09%20Application%20Development%20and%20Process/Assignment/Assignment%202%20-%20Spring%20MVC)
+- [Assignment 3 - Spring Boot](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-09%20Application%20Development%20and%20Process/Assignment/Assignment%203%20-%20Spring%20Boot)
+- [Assignment 4 - Spring Boot + JPA](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-09%20Application%20Development%20and%20Process/Assignment/Assignment%204%20-%20Spring%20Boot%20%2B%20JPA)
+- [Assignment 5 - Spring Security, Error Handling, and Logging](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-09%20Application%20Development%20and%20Process/Assignment/Assignment%205%20-%20Spring%20Security%2C%20Error%20Handling%2C%20and%20Logging)
