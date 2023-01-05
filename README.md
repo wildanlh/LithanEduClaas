@@ -11,6 +11,7 @@ All assignments and projects that I made during my internship training are uploa
   - [Module-07 Capstone Project Web Development](#module-07-capstone-project-web-development)
   - [Module-08 Web Development Using Platforms](#module-08-web-development-using-platforms)
   - [Module-09 Application Development and Process](#module-09-application-development-and-process)
+  - [Module-10 Application Integration](#module-10-application-integration)
 
 ## Module-01 Front End Web Development
 ### Assignment
@@ -85,3 +86,8 @@ All assignments and projects that I made during my internship training are uploa
 - [Assignment 5 - Spring Security, Error Handling, and Logging](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-09%20Application%20Development%20and%20Process/Assignment/Assignment%205%20-%20Spring%20Security%2C%20Error%20Handling%2C%20and%20Logging)
 ### Project
 - [ABC Cars](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-09%20Application%20Development%20and%20Process/Project)
+
+## Module-10 Application Integration
+### Assignment
+- [Assignment 1 - Build an API](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-10%20Application%20Integration/Assignment/Assignment%201%20-%20Build%20an%20API)
+- [Assignment 2 - Build React JS Frontend Application](https://github.com/wildanlh/LithanEduClaas/tree/master/Module-10%20Application%20Integration/Assignment/Assignment%202%20-%20Build%20React%20JS%20Frontend%20Application)
